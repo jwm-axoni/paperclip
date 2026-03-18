@@ -218,6 +218,13 @@
       "when": 1773670925214,
       "tag": "0030_rich_magneto",
       "breakpoints": true
+    },
+    {
+      "idx": 31,
+      "version": "7",
+      "when": 1773689800582,
+      "tag": "0031_loud_ravenous",
+      "breakpoints": true
     }
   ]
 }
